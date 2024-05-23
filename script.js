@@ -6,5 +6,8 @@ right(90);
 drawLine(150);
 left(30);
 drawLine(50);   
+drawEllipse(120,80);
+erase();
+
 
 
