@@ -15,8 +15,10 @@ createCanvas(800, 600); // Create a canvas
 // goTo(200,150)
 // drawPolygon(5,100)
 // showGrid(40)
-// goTo(300,150)
-// drawPolygon(5,100)
+// goTo(250,350)
+drawLine(50);
+drawPolygon(6,100)
+// drawEllipse(120,80);
 // drawEllipse(120,80);
 
 
