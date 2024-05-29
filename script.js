@@ -1,5 +1,3 @@
-
-
 createCanvas(800, 600); // Create a canvas
 // // Example usage
 // goTo(200,550);
@@ -10,8 +8,6 @@ createCanvas(800, 600); // Create a canvas
 // drawLine(50);   
 // drawEllipse(120,80);
 // // erase();
-
-
 // right(90)
 // goTo(200,150)
 // drawPolygon(5,100)
@@ -34,4 +30,10 @@ drawPolygon(7,100)
 
 // createCanvas(800, 600); // Create a canvas of size
 // drawLine(200); // Draw a line of length 100
+goTo(700,500)
+// left("Dfdffd")
+// drawLine(50);   
+drawStar(5, 50)
+goTo(200,200)
+drawStar(5, 30)
 
