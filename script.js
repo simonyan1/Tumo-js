@@ -23,7 +23,7 @@ createCanvas(800, 600); // Create a canvas
 
 // drawEllipse(120,80);
 // drawEllipse(120,80);
-
+rotate(30)
 drawLine(50)
 // drawTriangle(100)
 // drawEllipse(100,100)
