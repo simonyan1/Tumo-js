@@ -21,3 +21,7 @@ drawStar(5, 50)
 goTo(200,200)
 drawStar(5, 30)
 
+
+goTo(700,500)
+drawEllipse(120,80);
+fillColor("red") 
