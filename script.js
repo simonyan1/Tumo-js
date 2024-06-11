@@ -5,22 +5,25 @@ createCanvas(800, 600); // Create a canvas
 // right(90);
 // left(30);
 
-rotate(30)
-drawLine(50)
-drawPolygon(7,100)
+rotate(30);
+drawLine(50);
+drawPolygon(7, 100);
 
 // createCanvas(800, 600); // Create a canvas of size
 // drawLine(200); // Draw a line of length 100
-goTo(700,500)
+goTo(700, 500);
 // left("Dfdffd")
-// drawLine(50);   
-drawStar(5, 50)
-goTo(200,200)
-drawStar(5, 30)
+// drawLine(50);
+drawStar(5, 50);
+goTo(200, 200);
+drawStar(5, 30);
 
-
-goTo(700,500)
-drawEllipse(80);
-fillColor("red") 
-erase()
-drawLine(120)
+goTo(700, 500);
+drawEllipse(120, 80);
+fillColor("red");
+erase();
+rotate(30);
+drawTriangle(100);
+goTo(100, 200);
+rotate(0);
+drawTriangle(100);
