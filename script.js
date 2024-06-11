@@ -9,9 +9,6 @@ rotate(30)
 drawLine(50)
 drawPolygon(7,100)
 
-
-
-
 // createCanvas(800, 600); // Create a canvas of size
 // drawLine(200); // Draw a line of length 100
 goTo(700,500)
@@ -23,5 +20,7 @@ drawStar(5, 30)
 
 
 goTo(700,500)
-drawEllipse(120,80);
+drawEllipse(80);
 fillColor("red") 
+erase()
+drawLine(120)
