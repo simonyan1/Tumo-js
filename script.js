@@ -47,4 +47,5 @@ createCanvas(800, 600); // Create a canvas
 
 animate(function() {
     drawLine(50); // Draw a line with length 50
+    drawEllipse(120,80)
 }, 100)
