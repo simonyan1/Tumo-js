@@ -18,20 +18,14 @@ createCanvas(800, 600); // Create a canvas
 // showGrid(40)
 // goTo(250,350)
 // drawLine(50);
-// drawPolygon(6,100)
+
 // drawLine(50);
-
-// drawEllipse(120,80);
-// drawEllipse(120,80);
-
-drawLine(50)
-// drawTriangle(100)
-// drawEllipse(100,100)
-drawPolygon(7,100)
-
 
 
 
 // createCanvas(800, 600); // Create a canvas of size
 // drawLine(200); // Draw a line of length 100
 
+
+
+// animate(myAnimation,2000)
