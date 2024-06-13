@@ -16,30 +16,35 @@ createCanvas(800, 600); // Create a canvas
 // goTo(250,350)
 // drawLine(50);
 
-drawLine(50);
+// drawLine(50);
 
-rotate(30);
-drawLine(50);
-drawPolygon(7, 100);
+// rotate(30);
+// drawLine(50);
+// drawPolygon(7, 100);
 
 // createCanvas(800, 600); // Create a canvas of size
 // drawLine(200); // Draw a line of length 100
-goTo(700, 500);
+// goTo(700, 500);
 // left("Dfdffd")
 // drawLine(50);
-drawStar(5, 50);
-goTo(200, 200);
-drawStar(5, 30);
+// drawStar(5, 50);
+// goTo(200, 200);
+// drawStar(5, 30);
 
 
 
-animate(myAnimation,2000)
-goTo(700, 500);
-drawEllipse(120, 80);
-fillColor("red");
-erase();
-rotate(30);
-drawTriangle(100);
-goTo(100, 200);
-rotate(0);
-drawTriangle(100);
+
+// goTo(700, 500);
+// drawEllipse(120, 80);
+// fillColor("red");
+// erase();
+// rotate(30);
+// drawTriangle(100);
+// goTo(100, 200);
+// rotate(0);
+// drawTriangle(100);
+
+
+animate(function() {
+    drawLine(50); // Draw a line with length 50
+}, 100)
