@@ -19,7 +19,7 @@ createCanvas(800, 600); // Create a canvas
 // goTo(250,350)
 // drawLine(50);
 
-// drawLine(50);
+drawLine(50);
 
 
 
@@ -28,4 +28,4 @@ createCanvas(800, 600); // Create a canvas
 
 
 
-// animate(myAnimation,2000)
+animate(myAnimation,2000)
