@@ -27,7 +27,7 @@ drawEllipse(120,80);
 fillColor("red") 
 
 right(100)
-
+//
 animate(function() {
     drawLine(50); // Draw a line with length 50
 }, 100)
