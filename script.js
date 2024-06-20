@@ -38,6 +38,10 @@ goTo(700,500)
 drawEllipse(120,80);
 fillColor("red") 
 
-animate(()=> {
-  drawLine(100)
-},1000)
+// animate(()=> {
+//   drawLine(100)
+  drawRectangle(100,100)
+// },1000)
+
+
+showGrid(50)
