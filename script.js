@@ -1,47 +1,44 @@
 createCanvas(800, 600); // Create a canvas
 // // Example usage
-// goTo(200,550);
-// drawLine(200);
-// right(90);
-// left(30);
-// drawLine(50);   
-// drawEllipse(120,80);
-// // erase();
-
-
-// right(90)
-// goTo(200,150)
-// drawPolygon(5,100)
-// showGrid(40)
-// goTo(250,350)
-// drawLine(50);
-
-// drawLine(50);
-
-// rotate(30);
-// drawLine(50);
-// drawPolygon(7, 100);
-
-// createCanvas(800, 600); // Create a canvas of size
-// drawLine(200); // Draw a line of length 100
-// goTo(700, 500);
-// left("Dfdffd")
-// drawLine(50);
-// drawStar(5, 50);
-// goTo(200, 200);
-// drawStar(5, 30);
-
-
-
 
 goTo(700,500)
-drawEllipse(120,80);
 fillColor("red") 
+drawEllipse(120,80);
 
-// animate(()=> {
-//   drawLine(100)
-  drawRectangle(100,100)
-// },1000)
+goTo(100, 100)
+fillColor(120,19,149) 
+drawEllipse(120,80);
 
+goTo(200, 200)
+//fillColor([120,60,60]) 
+drawEllipse(120,90)
 
+goTo(300,300)
+fillColor("#aa454512")
+drawEllipse(120,120)
+
+goTo(400, 400)
+drawEllipse(100,100)
+
+goTo(400,100)
+fillColor("blue")
+drawRectangle(5,50)
+
+goTo(200,100)
+drawRectangle(100,5)
+
+goTo(600,200)
+fillColor("yellow")
+drawRectangle(200,200)
+
+goTo(150,150)
+fillColor("brown")
+drawStar(5,100)
+
+goTo(180,180)
+drawStar(5,100)
 showGrid(50)
+
+goTo(280,280)
+fillColor("green")
+drawStar(5,100)
