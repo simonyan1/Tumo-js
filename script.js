@@ -10,7 +10,7 @@ fillColor(120,19,149)
 drawEllipse(120,80);
 
 goTo(200, 200)
-//fillColor([120,60,60]) 
+fillColor([120,60,60]) 
 drawEllipse(120,90)
 
 goTo(300,300)
