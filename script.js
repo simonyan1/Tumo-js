@@ -24,3 +24,5 @@ drawEllipse(80);
 fillColor("red") 
 erase()
 drawLine(120)
+drawEllipse(140, 100)
+
