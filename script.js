@@ -1,30 +1,40 @@
-createCanvas(600, 600); // Create a canvas
+createCanvas(700, 700); // Create a canvas
 // // Example usage
 
 
 color("black")
-drawLine(50)
-left(30)
-color("yellow")
-drawLine(100)
-left(60)
-color("red")
+// drawLine(50)
+// left(30)
+// color("yellow")
+// drawLine(100)
+// left(60)
+// color("red")
 drawLine(150)
 
 
 
-// goTo(700,500)
-// fillColor("red") 
-// drawEllipse(120,80);
+// goTo(300,300)
+left(80)
+drawLine(100)
+// move(100)
+// drawLine(100)
+fillColor("red") 
+drawEllipse(120,80);
+move(170)
+left(120)
+drawLine(300)
+// left(20)
+drawEllipse(120,70);
+move(200)
 // left(30)
-// drawLine(50)
-// // left(30)
+right(250)
+drawLine(200)
 // drawLine(50)
 
 // drawLine(50)
 // goTo(100, 100)
-// fillColor(120,19,149) 
-// drawEllipse(120,80);
+fillColor(120,19,149) 
+drawEllipse(120,80);
 
 // // right(80)
 // goTo(200, 200)
