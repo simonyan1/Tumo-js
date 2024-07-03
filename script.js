@@ -20,9 +20,10 @@ erase();
 drawLine(120);
 drawEllipse(140, 100);
 drawLine(50);
+drawLine(50);
 
 goTo(200, 200);
-//fillColor([120,60,60])
+fillColor([120,60,60])
 drawEllipse(120, 90);
 
 goTo(300, 300);
