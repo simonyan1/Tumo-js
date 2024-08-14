@@ -3,8 +3,11 @@ createCanvas(800, 600); // Create a canvas
 
 goTo(400, 500);
 fillColor("red");
+width(8)
 rotate(60)
 drawEllipse(120, 80);
+erase()
+drawRectangle(120,100)
 
 // goTo(100, 100);
 // fillColor(120, 19, 149);
